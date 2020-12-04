@@ -2,4 +2,8 @@ site_name: Folding@Home
 nav:
     - Home: index.md
     - Linux Overview: overview_linux.md
+    - Requirements: requirements_linux.md
+    - Manual Installation: manual_installation_linux.md
+    - Command Line Options: command_line_options_linux.md
+    - Uninstall: uninstall_linux.md
 theme: readthedocs
