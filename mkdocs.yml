@@ -1,0 +1,5 @@
+site_name: Folding@Home
+nav:
+    - Home: index.md
+    - Linux Overview: overview_linux.md
+theme: readthedocs
